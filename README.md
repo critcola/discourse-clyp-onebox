@@ -1,6 +1,6 @@
 <a href="https://critcola.com/?utm_source=github.com&utm_medium=readme&utm_term=logo&utm_content=discourse-clyp-onebox&utm_campaign=development">![Logo](https://critcola.com/assets/images/crit-cola-banner.svg)</a>
 
-# Discourse Plays.tv Onebox
+# Discourse Cly Onebox
 
 This plugin for Discourse extends Onebox to add support for embedding audio player widgets from Clyp in Discourse posts.
 
