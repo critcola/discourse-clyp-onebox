@@ -2,7 +2,7 @@
 
 # Discourse Clyp Onebox
 
-This plugin for Discourse extends Onebox to add support for embedding audio player widgets from Clyp in Discourse posts.
+This plugin for Discourse extends Onebox to add support for embedding audio player widgets from [Clyp](https://clyp.it/) in Discourse posts.
 
 ## Demo
 
