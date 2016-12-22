@@ -15,6 +15,6 @@ class Onebox::Engine::ClypOnebox
 	end
 	
 	def to_html
-		"<iframe width=\"100%\" height=\"160\" src=\"https://clyp.it/#{id}/widget\" frameborder=\"0\"></iframe>"
+		"<iframe width=\"100%\" height=\"160\" src=\"https://clyp.it/#{id}/widget\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
 	end
 end
